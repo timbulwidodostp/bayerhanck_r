@@ -1,6 +1,8 @@
 # bayerhanck_r
 Joint Test-Statistic for the Null of Non-Cointegration Use bayerhanck (combcoint) With (In) R Software
 
+https://www.youtube.com/watch?v=wbtPT83w4lo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
